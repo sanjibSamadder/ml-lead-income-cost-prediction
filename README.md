@@ -52,14 +52,13 @@ Full reasoning, per-model diagnostics, and interpretation are documented directl
 
 ```
 lead_prediction/
-├── Lead_Prediction.ipynb      # Full analysis: EDA, cleaning, model comparison
-├── anonymized_data.csv        # Training data (partner/offer names anonymized)
-├── app.py                     # Streamlit prediction app
-├── requirements.txt           # Pinned Python package versions
-├── runtime.txt                # Python version for deployment
-├── gbm_pipeline.pkl           # Trained production model
-├── known_partners.pkl         # List of partners seen during training
-├── known_offers.pkl           # List of offers seen during training
+├── assets/                     # Images used in README (icon, banner, etc.)
+├── Data/                       # Raw/processed datasets
+├── Streamlit/                  # Streamlit app files (app.py, etc.)
+├── Lead Prediction.ipynb       # Full analysis: EDA, cleaning, model comparison
+├── gbm_pipeline.pkl            # Trained production model
+├── known_partners.pkl          # List of partners seen during training
+├── known_offers.pkl            # List of offers seen during training
 └── README.md
 ```
 
