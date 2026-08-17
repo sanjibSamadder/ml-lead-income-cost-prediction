@@ -9,6 +9,8 @@
 ![Model](https://img.shields.io/badge/Model-Gradient%20Boosting-lightgrey)
 ![Model](https://img.shields.io/badge/Model-Stacking%20Ensemble-yellowgreen)
 
+![Project Banner](assets/banner.png)
+
 A machine learning project that predicts monthly **Leads**, **Sum Income**, and **Sum Scrub Cost** for partner/offer combinations, based on historical performance data. Includes a full model comparison across seven algorithms and a deployed Streamlit app for interactive predictions.
 
 🔗 **Live app:** [Click here](https://ml-lead-income-cost-prediction-hgwny2t4lvp64uzfhamhmr.streamlit.app/)
