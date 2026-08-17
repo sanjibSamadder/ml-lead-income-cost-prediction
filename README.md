@@ -1,4 +1,4 @@
-# <img src="assets/icon-logo-b.png" width="40" style="vertical-align:middle"> Gradient boosting - Lead & Income Predictor
+# <img src="assets/icon-logo-b.png" width="55" style="vertical-align:middle"> Gradient boosting - Lead & Income Predictor
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
