@@ -1,9 +1,17 @@
-# Lead & Income Predictor
+# Gradient boosting - Lead & Income Predictor
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-red?logo=xgboost&logoColor=white)
+![Model](https://img.shields.io/badge/Model-Linear%20Regression-lightgrey)
+![Model](https://img.shields.io/badge/Model-Lasso-lightgrey)
+![Model](https://img.shields.io/badge/Model-Gradient%20Boosting-lightgrey)
+![Model](https://img.shields.io/badge/Model-Stacking%20Ensemble-yellowgreen)
 
 A machine learning project that predicts monthly **Leads**, **Sum Income**, and **Sum Scrub Cost** for partner/offer combinations, based on historical performance data. Includes a full model comparison across seven algorithms and a deployed Streamlit app for interactive predictions.
 
-🔗 **Live app:** _add your Streamlit Cloud URL here_
-
+🔗 **Live app:** work in progress !
 ---
 
 ## What this project does
@@ -154,6 +162,14 @@ Partner and Offer names in this dataset have been anonymized prior to publicatio
 
 ---
 
-## Author
 
-Sanjib Samadder
+**Sanjib Samadder**
+
+**📬 Let's connect!** I'm open to discussions about data science, machine learning, and collaborative projects.
+
+[![Email](https://img.shields.io/badge/Email-skilled.sanjib%40gmail.com-red?logo=gmail)](mailto:skilled.sanjib@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sanjibSamadder-181717?logo=github)](https://github.com/sanjibSamadder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjib%20Samadder-0A66C2?logo=linkedin)](https://linkedin.com/in/sanjib-samadder)
+
+**Happy Predicting!** 📊
+
